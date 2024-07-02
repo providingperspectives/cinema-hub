@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+# Links
+/links.txt
+
 # production
 /build
 
